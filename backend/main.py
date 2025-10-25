@@ -20,7 +20,7 @@ def get_items():
         {
             "id": 1,
             "name": "Docker",
-            "img": "https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkS5FxFs_lNQF8XWIzCDp8MN-WLD2Jy5P1ew&s",
         },
         {
             "id": 2,
